@@ -1,0 +1,5 @@
+C:\Users\jsilveira.UAISOFT\Desktop\Desligar Monitor\Desligar Monitor\bin\Debug\Desligar Monitor.exe.config
+C:\Users\jsilveira.UAISOFT\Desktop\Desligar Monitor\Desligar Monitor\bin\Debug\Desligar Monitor.exe
+C:\Users\jsilveira.UAISOFT\Desktop\Desligar Monitor\Desligar Monitor\bin\Debug\Desligar Monitor.pdb
+C:\Users\jsilveira.UAISOFT\Desktop\Desligar Monitor\Desligar Monitor\obj\Debug\Desligar Monitor.exe
+C:\Users\jsilveira.UAISOFT\Desktop\Desligar Monitor\Desligar Monitor\obj\Debug\Desligar Monitor.pdb
